@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="gitbanner.jpg" alt="Sruthi Puchakayala DevSecOps Banner" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
