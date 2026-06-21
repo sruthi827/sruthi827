@@ -48,7 +48,7 @@ Passionate DevSecOps Engineer dedicated to bridging the gap between development,
 
 ## 💬 Connect With Me
 
-* **LinkedIn:** (https://www.linkedin.com/in/sruthi-puchakayala-459462202/)
+* **LinkedIn:** https://www.linkedin.com/in/sruthi-puchakayala-459462202/
 * **Email:** [psr160503@gmail.com](mailto:psr160503@gmail.com)
   
 
